@@ -1,0 +1,5 @@
+*.vg
+exp_logs
+logs
+*.pkl
+tests/mnist
