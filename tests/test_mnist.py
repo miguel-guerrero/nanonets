@@ -211,8 +211,8 @@ if __name__ == "__main__":
         seed = 1  # 76
         np.random.seed(seed)
         # loss = train(verbose=True)
-        # loss = train(verbose=True, nepochs=1)
-        loss = train(verbose=True, niters=20)
+        loss = train(verbose=True, nepochs=1)
+        # loss = train(verbose=True, niters=20)
 
     if runRegress:
         cntLessOne = 0

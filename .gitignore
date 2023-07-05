@@ -3,3 +3,4 @@ exp_logs
 logs
 *.pkl
 tests/mnist
+__pycache__
