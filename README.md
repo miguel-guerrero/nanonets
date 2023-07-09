@@ -1,7 +1,7 @@
 
 ## Introduction
 
-Nanonets is a simple Artificial Neuronal Network framework built from scratch (strictly over `numpy`) for personal learning purposes.
+Nanonets is a simple Artificial Neuronal Network framework built from scratch (strictly over `numpy`) in pure python for personal learning purposes.
 It is inspired by Andrej Karpathys lectures, for example:
 
 [The spelled-out intro to neural networks and backpropagation: building micrograd
